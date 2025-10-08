@@ -1,0 +1,1 @@
+This repository contains ROS 2 packages developed by LD-Robots for the control, simulation, and integration of a humanoid robotic arm. It includes modular nodes for kinematics, motion planning, hardware drivers, and Gazebo/rviz visualization, providing a scalable framework for research and real-world robotic applications.
